@@ -1,0 +1,2 @@
+# alias
+Learning alias's
